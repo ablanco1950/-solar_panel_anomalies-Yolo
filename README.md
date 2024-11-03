@@ -49,7 +49,7 @@ In the data.yaml file, necessary for training, the absolute addresses of the tra
 
 Considerations:
 
-The results obtained are comparable with those offered in the query https://universe.roboflow.com/ron-zhyan/solar-panel-anomalies-hikbk-0joqn/model/1 . An Excel sheet with the results obtained with both models is attached.
+The results obtained are comparable with those offered in the query https://universe.roboflow.com/ron-zhyan/solar-panel-anomalies-hikbk-0joqn/model/1 . An Excel sheet with the results obtained with both models is attached : ComparingResultsSolarPanelAnomalies.xlsx.
 It has also been tested with yolov10 instead of yolov11 and the results have been worse
 
 References:
