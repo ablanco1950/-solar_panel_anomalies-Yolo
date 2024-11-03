@@ -1,0 +1,8 @@
+train: C:\solar_panel_anomalies-Yolo\Converted\Solar-panel-anomalies-1\train\images
+val: C:\solar_panel_anomalies-Yolo\Converted\Solar-panel-anomalies-1\valid\images
+test: C:\solar_panel_anomalies-Yolo\Converted\Solar-panel-anomalies-1\test\images
+
+
+nc: 4
+names: ['Diode anomaly', 'Hot Spots', 'Reverse polarity', 'Vegetation']
+
