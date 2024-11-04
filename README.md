@@ -30,7 +30,7 @@ For this, the program is executed:
 
 ConvertSolarPanelAnomaliesLabels_To_YoloLabels.py
 
-which creates the Converter folder with the labels subdirectories in the precise format to train the model.
+which creates the Converted folder with the labels subdirectories in the precise format to train the model.
 
 As the project has a best.pt model, it can be evaluated by testing the images in the test folder, executing:
 
