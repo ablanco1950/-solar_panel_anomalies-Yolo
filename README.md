@@ -12,6 +12,8 @@ There may be incompatibilities with the installed version of numpy, so you shoul
 
 pip install numpy==1.23
 
+(a requirements.txt is attached)
+
 Download all the project files to disk, they will be unzipped into a folder named solar_panel_anomalies-Yolo
 
 You have to download the file that is used to train the model from the address
