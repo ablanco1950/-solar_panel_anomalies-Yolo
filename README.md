@@ -10,7 +10,7 @@ pip install ultralytics
 
 There may be incompatibilities with the installed version of numpy, so you should downgrade it;
 
-pip install numpy=1.23
+pip install numpy==1.23
 
 Download all the project files to disk, they will be unzipped into a folder named solar_panel_anomalies-Yolo
 
